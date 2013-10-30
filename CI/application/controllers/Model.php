@@ -25,5 +25,9 @@ class Model Extends CI_Controller{
 
 		$this->load->view('Detail',$data);
 	}
+	
+	function Do()
+	{
+	}
 }
 ?>
